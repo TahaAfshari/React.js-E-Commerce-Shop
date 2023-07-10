@@ -1,11 +1,12 @@
-<h1 align="center">"PhoneNet" Mobile E-Commerce</h1>
-<h3 align="center">Maktab63 Final Project - Mohammad Reza Ebrahimi</h3>
+<h1 align="center">"tech town" Mobile E-Commerce</h1>
+<h3 align="center"></h3>
 <p align="center">Mobile store project (e-commerce) created with React js and Redux with back and json-server<p>
   
 </br><h2></h2></br>
 
 <strong>Project Phase 1 : </strong>
 </br>
+
 <ul>
   <li>Create Repository</li>
   <li>Create Project Structure And Map</li>
@@ -18,6 +19,7 @@
 
 <strong>Project Phase 2 : </strong>
 </br>
+
 <ul>
   <li>Create Header With Menu</li>
   <li>Create Button Component</li>
@@ -36,6 +38,7 @@
 
 <strong>Project Phase 3 : </strong>
 </br>
+
 <ul>
   <li>Create Footer</li>
   <li>Create Home Page</li>
@@ -50,6 +53,7 @@
 
 <strong>Project Phase 4 : </strong>
 </br>
+
 <ul>
   <li>Add Product To Card</li>
   <li>Create Basket Page And Show Card in Basket Page</li>
@@ -72,3 +76,18 @@ After cloning the project, first install the project packages with the <strong><
 </p>
 
 </br><h2></h2></br>
+
+preview
+
+![Alt text](<public/img/Screenshot (1).png>)
+![Alt text](<public/img/Screenshot (2).png>)
+![Alt text](<public/img/Screenshot (3).png>)
+![Alt text](<public/img/Screenshot (4).png>)
+![Alt text](<public/img/Screenshot (5).png>)
+![Alt text](<public/img/Screenshot (6).png>)
+![Alt text](<public/img/Screenshot (7).png>)
+![Alt text](<public/img/Screenshot (8).png>)
+![Alt text](<public/img/Screenshot (9).png>)
+![Alt text](<public/img/Screenshot (10).png>)
+![Alt text](<public/img/Screenshot (11).png>)
+![Alt text](<public/img/Screenshot (12).png>)
