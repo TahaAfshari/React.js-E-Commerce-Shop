@@ -1,0 +1,100 @@
+footer {
+    width: 100%;
+    height: fit-content;
+    background: #303030;
+    box-shadow: 0rem -0.3rem 0.6rem 0 rgb(30 60 88 / 16%);
+    padding: 2.5rem;
+}
+
+.footerContent {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 0rem 2.5rem;
+}
+
+.footerContent .aboutUs,
+.footerContent .another,
+.footerContent .contactUs,
+.footerContent .help,
+.footerContent .services {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    flex: 1;
+    gap: 0.5rem;
+}
+
+.footerContent .aboutUs {
+    flex: 3;
+    align-items: flex-start;
+    min-width: 30rem;
+}
+
+.footerContent .aboutUs p {
+    width: 90%;
+    text-align: justify;
+    font-size: 1.2rem;
+}
+
+.footerContent .aboutUs div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+.footerContent .aboutUs div p {
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: #f9a602;
+}
+
+.footerContent .aboutUs div img {
+    width: 5rem;
+}
+
+.footerContent strong {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    border-bottom: 0.1rem solid #f9a602;
+    padding-bottom: 1rem;
+}
+
+.footerContent a {
+    font-size: 1.2rem;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.footerContent a:hover {
+    color: #f9a602;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.footerContent strong,
+.footerContent a {
+    width: max-content;
+    color: #f9a602;
+}
+
+.footerCopyRight {
+    margin: 2rem 2rem 0rem 2rem;
+    text-align: center;
+    border-top: 0.1rem solid #f9a602;
+    padding-top: 2rem;
+    font-size: 1.2rem;
+    color: #f9a602;
+    direction: ltr;
+}
+
+.footerContent .contactUs a {
+    direction: ltr;
+}
